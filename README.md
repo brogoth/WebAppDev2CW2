@@ -48,7 +48,7 @@ This project demonstrates a modular MVC architecture, RESTful routing, session-b
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/brogoth/WebAppDev2CW2
    cd dance-org-booking
 
 2. **Install Dependencies:**
@@ -61,7 +61,10 @@ This project demonstrates a modular MVC architecture, RESTful routing, session-b
    npm start
 4. **Access the Application:**
  Open your web browser and navigate to http://localhost:9000.
- 
+5. **Organiser**
+Login as Organiser to create classes, or register to view 
+ Username: Organiser
+ Password: 123456789
 ### Test Report Summary
 
 - **Home Page:** PASSED – Displays hero section, dynamic background image, and About Us content.
