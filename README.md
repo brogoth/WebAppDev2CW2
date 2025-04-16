@@ -47,17 +47,12 @@ This project demonstrates a modular MVC architecture, RESTful routing, session-b
 ## Installation & Setup
 
 1. **Clone the Repository:**
-   ```bash
    git clone https://github.com/brogoth/WebAppDev2CW2
    cd dance-org-booking
 
 2. **Install Dependencies:**
-   ```bash
-   Copy
    npm install
 3. **Start the Server:**
-   ```bash
-   Copy
    npm start
 4. **Access the Application:**
  Open your web browser and navigate to http://localhost:9000.
